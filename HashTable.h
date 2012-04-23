@@ -1,5 +1,4 @@
 #include <vector>
-using namespace std;
 template<class HashObject>
 class HashTable
 {
